@@ -73,7 +73,7 @@ Length = floor((row - Beginrow)/(sample_factor_h*8) - 1)*width + (width-Begincol
 Lo.len = Length;
 
 
-
+% zjkhdwidwedwe
 % ---- combine and find the data stream
 % * * * * combine
     if Lo.row ~= Beginrow
