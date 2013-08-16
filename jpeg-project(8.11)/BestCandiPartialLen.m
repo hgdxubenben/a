@@ -3,7 +3,7 @@ function Ibc = BestCandiPartialLen(upR, nblocks, stm, width, Znum)
 value = zeros(Znum,1) + 99999999;
 vector = zeros(Znum,1) - 1;
 [Maxvalue, Locvector] = max(value);
-
+%sakdjqwkdhaskdqhwd
 tmptc(1:nblocks)=zeros + 99999999;
 I1 = -1; I2 = -1;
 minI1 = 99999999;
